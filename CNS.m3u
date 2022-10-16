@@ -214,8 +214,8 @@ http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/Qusd5mT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina (1080p)
+https://list.iptvcat.com/my_list/s/eb392910b435311ab7aa9b4ab9fb80a6.m3u8
 #EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Undefined",LimaLive (536p) [Not 24/7]
